@@ -120,8 +120,6 @@ platforms:
     name: "格隆汇"
   
   # === 社交/短视频/娱乐类 ===
-  - id: "bilibili-hot-search"
-    name: "bilibili 热搜"
   - id: "weibo"
     name: "微博"
   - id: "zhihu"
