@@ -100,8 +100,6 @@ platforms:
   # === 综合新闻媒体类 ===
   - id: "thepaper"
     name: "澎湃新闻"
-  - id: "ifeng"
-    name: "凤凰网"
   - id: "zaobao"
     name: "联合早报"
   - id: "mktnews"
